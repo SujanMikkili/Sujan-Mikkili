@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Mikkili</h1>
-<h3 align="center">Aspiring Data Analyst & Junior Power BI Developer | SQL · Power BI · Python </h3>
+<h3 align="center">Aspiring Data Analyst | SQL Developer | Power BI Developer | Python Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+Developer;SQL+%7C+Python+%7C+DAX+%7C+Power+Query;Turning+raw+data+into+business+insights" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering** — JNTU Kakinada (2025)
 - 📍 Based in **Andhra Pradesh, India**
-- 💼 Fresher actively looking for **Data Analyst / Junior Power BI Developer** roles
+- 💼 Fresher actively looking for roles in **Data Analytics, SQL Development, Power BI / BI Reporting, or Python-based Data roles**
 - 🏢 Completed **Deloitte Virtual Internship** (Forage) — Data Analytics & Forensic Technology
 - 🌱 Currently deepening skills in **Azure Data Factory**, **SSRS**, and **advanced DAX**
 - 📫 Reach me at: **sujan.mikkili2812@gmail.com**
