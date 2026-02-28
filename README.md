@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Mikkili</h1>
-<h3 align="center">Aspiring Data Analyst & Junior Power BI Developer | SQL · Power BI · Python · Azure</h3>
+<h3 align="center">Aspiring Data Analyst & Junior Power BI Developer | SQL · Power BI · Python </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+Developer;SQL+%7C+Python+%7C+DAX+%7C+Power+Query;Turning+raw+data+into+business+insights" alt="Typing SVG" />
@@ -49,15 +49,6 @@
 - Full-stack shop management system with database-backed operations
 - Integrated MySQL for data storage and Power BI for reporting dashboards
 - Designed for real-world business use with inventory and sales tracking
-
----
-
-#### 🎓 Student Attendance Insights System *(Coming to GitHub soon)*
-> **Python · MySQL · Power BI**
-
-- Analyzed attendance data for 1000+ student records using Pandas & MySQL
-- Identified attendance patterns and trends across time periods
-- Visualized key metrics with interactive Power BI dashboards
 
 ---
 
